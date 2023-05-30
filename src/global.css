@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Carattere:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Book+Antiqua:wght@700&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-playfair-display: "Playfair Display";
+  --font-book-antiqua: "Book Antiqua";
+  --font-carattere: Carattere;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-13xl: 32px;
+  --font-size-33xl: 52px;
+  --font-size-17xl: 36px;
+  --font-size-23xl: 42px;
+  --font-size-9xl: 28px;
+  --font-size-24xl-1: 43.1px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-white: #fff;
+  --color-palevioletred-100: #de83a7;
+  --color-palevioletred-200: #d15385;
+  --color-antiquewhite: #f1dcca;
+
+  /* Gaps */
+  --gap-6xs: 7px;
+
+  /* Paddings */
+  --padding-xl: 20px;
+  --padding-base: 16px;
+  --padding-mini: 15px;
+  --padding-sm: 14px;
+  --padding-12xl: 31px;
+
+  /* border radiuses */
+  --br-26xl: 45px;
+  --br-sm: 14px;
+  --br-25xl: 44px;
+}
