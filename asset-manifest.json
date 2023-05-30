@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BeautyBrandLandingPage/static/css/main.80cf2700.css",
+    "main.js": "/BeautyBrandLandingPage/static/js/main.9db738d2.js",
+    "static/js/787.11bc2805.chunk.js": "/BeautyBrandLandingPage/static/js/787.11bc2805.chunk.js",
+    "index.html": "/BeautyBrandLandingPage/index.html",
+    "main.80cf2700.css.map": "/BeautyBrandLandingPage/static/css/main.80cf2700.css.map",
+    "main.9db738d2.js.map": "/BeautyBrandLandingPage/static/js/main.9db738d2.js.map",
+    "787.11bc2805.chunk.js.map": "/BeautyBrandLandingPage/static/js/787.11bc2805.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80cf2700.css",
+    "static/js/main.9db738d2.js"
+  ]
+}
